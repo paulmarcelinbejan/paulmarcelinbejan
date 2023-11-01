@@ -4,16 +4,18 @@
 🏠 I live in Italy, but I was born in Romania<br>
 
 # 🔥 Tech Stack
-I worked with:<br>
+I have worked with:<br>
 ![Java](https://img.shields.io/badge/-Java-FF7800?logo=java&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/-Bash-000000?logo=gnubash&logoColor=white&style=flat)<br>
-Currently learning:<br>
+![Bash](https://img.shields.io/badge/-Bash-000000?logo=gnubash&logoColor=white&style=flat)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)<br>
+
+I'm currently learning:<br>
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 
 # 🌐 Social
