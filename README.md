@@ -12,7 +12,7 @@ I worked with:<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)<br>
+![Bash](https://img.shields.io/badge/-Bash-000000?logo=gnubash&logoColor=white&style=flat)<br>
 Currently learning:<br>
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 
