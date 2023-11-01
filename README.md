@@ -4,7 +4,16 @@
 🏠 I live in Italy, but I was born in Romania<br>
 
 # Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+I worked with:<br>
+![Java](https://img.shields.io/badge/-Java-FF7800?logo=java&logoColor=white&style=flat)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)<br>
+Currently learning:<br>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 
 # Social
 [![StackOverflow](https://stackoverflow.com/users/flair/13115701.png?theme=dark)](https://stackoverflow.com/users/13115701/paul-marcelin-bejan)<br>
