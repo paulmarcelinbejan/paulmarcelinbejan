@@ -6,7 +6,7 @@
 
 # 🔥 Tech Stack
 I have worked with:<br>
-![Fork](https://raw.githubusercontent.com/paulmarcelinbejan/paulmarcelinbejan/main/java_badge.svg) <!-- https://tinyurl.com/mr22y3vs -->
+![Java](https://raw.githubusercontent.com/paulmarcelinbejan/paulmarcelinbejan/main/java_badge.svg) <!-- https://tinyurl.com/mr22y3vs -->
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
 ![Junit5](https://img.shields.io/badge/Junit5-25A162?logo=junit5&logoColor=white&style=flat)
 <br>
