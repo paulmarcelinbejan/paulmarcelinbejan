@@ -2,6 +2,7 @@
 👨🏻‍💻 My name is Paul Marcelin Bejan<br>
 🎂 I'm 24<br>
 🏠 I live in Italy, but I was born in Romania<br>
+👨🏻‍💼 Currently working as Java Software Developer at Capgemini Italy
 
 
 # 🔥 Tech Stack
