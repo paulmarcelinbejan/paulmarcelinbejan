@@ -2,8 +2,8 @@
 👨🏻‍💻 My name is Paul Marcelin Bejan<br>
 🎂 I'm 25<br>
 🏠 I live in Italy, but I was born in Romania<br>
-👨🏻‍💼 Currently working as Java Software Developer at Capgemini Italy
-👨🏻‍💼 Previously working as Java Software Developer at AlmavivaA
+👨🏻‍💼 Currently working as Java Software Developer at Capgemini Italy<br>
+👨🏻‍💼 Previously working as Java Software Developer at AlmavivaA<br>
 
 # 🔥 Tech Stack
 I have worked with:<br>
