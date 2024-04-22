@@ -3,7 +3,7 @@
 🎂 I'm 25<br>
 🏠 I live in Italy, but I was born in Romania<br>
 👨🏻‍💼 Currently working as Java Software Developer at Capgemini Italy<br>
-👨🏻‍💼 Previously working as Java Software Developer at AlmavivaA<br>
+👨🏻‍💼 Previously working as Java Software Developer at AlmavivA<br>
 
 # 🔥 Tech Stack
 I have worked with:<br>
