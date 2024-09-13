@@ -21,8 +21,8 @@ I have worked with:<br>
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 I'm currently learning:<br>
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
-
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+- Hexagonal Architecture
 
 # 🛠️ Tools
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=flat)
@@ -42,7 +42,7 @@ I'm currently learning:<br>
 🇨🇿 Czech Republic ( Praha )<br>
 🇩🇪 Germany ( Nürnberg - Stuttgart )<br>
 🇷🇴 Romania ( București - Brașov )<br>
-🇪🇸 Spain ( Barcelona - Valencia )<br>
+🇪🇸 Spain ( Barcelona - Valencia - Mallorca )<br>
 🇬🇧 UK ( Bristol - London )<br>
 
 
