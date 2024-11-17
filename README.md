@@ -20,10 +20,6 @@ I have worked with:<br>
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-I'm currently learning:<br>
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
-- Hexagonal Architecture
-
 # 🛠️ Tools
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=flat)
 ![Fork](https://raw.githubusercontent.com/paulmarcelinbejan/paulmarcelinbejan/main/Git-Fork_badge.svg)
