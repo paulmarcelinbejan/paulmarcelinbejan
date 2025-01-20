@@ -2,8 +2,9 @@
 👨🏻‍💻 My name is Paul Marcelin Bejan<br>
 🎂 I'm 25<br>
 🏠 I live in Italy, but I was born in Romania<br>
-👨🏻‍💼 Currently working as Java Software Developer at Capgemini Italy<br>
-👨🏻‍💼 Previously working as Java Software Developer at AlmavivA<br>
+👨🏻‍💻 Currently working as Java Software Developer at Accenture<br>
+👨🏻‍💻 Previously working as Java Software Developer at Capgemini<br>
+👨🏻‍💻 Previously working as Java Software Developer at AlmavivA<br>
 
 # 🔥 Tech Stack
 I have worked with:<br>
@@ -36,10 +37,10 @@ I have worked with:<br>
 
 # 🌍 Travel
 🇨🇿 Czech Republic ( Praha )<br>
-🇩🇪 Germany ( Nürnberg - Stuttgart )<br>
 🇷🇴 Romania ( București - Brașov )<br>
+🇩🇪 Germany ( Nürnberg - Stuttgart )<br>
 🇪🇸 Spain ( Barcelona - Valencia - Mallorca )<br>
-🇬🇧 UK ( Bristol - London )<br>
+🇬🇧 UK ( Bristol - London - Edinburgh )<br>
 
 
 # 💭 Quotes 
